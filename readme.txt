@@ -5,3 +5,6 @@ Git tracks changes.
 
 
 Github already work.
+
+
+Creating a new branch is quick.
