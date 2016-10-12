@@ -10,5 +10,5 @@ Github already work.
 Creating a new branch is quick AND simple.
 
 
-学习分支管理策略
+fix bug 101
 
